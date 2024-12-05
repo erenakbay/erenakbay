@@ -1,4 +1,4 @@
-# 💫 Hi there ! I'm Eren Akbay
+# Hi! I'm Eren Akbay
 I am a Computer Science student at Florida International University with a deep passion for software development, particularly in backend development and cloud technologies. I am dedicated to continuously expanding my knowledge and honing my skills to become a better programmer.
 
 
